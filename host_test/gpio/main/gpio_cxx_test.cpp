@@ -18,7 +18,7 @@
 #include "esp_err.h"
 #include "freertos/portmacro.h"
 #include "gpio_cxx.hpp"
-#include "test_fixtures.hpp"
+#include "host_test/fixtures/test_fixtures.hpp"
 
 #include "catch.hpp"
 

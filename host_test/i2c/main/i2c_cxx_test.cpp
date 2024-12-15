@@ -18,7 +18,7 @@
 #include "driver/i2c.h"
 #include "i2c_cxx.hpp"
 #include "system_cxx.hpp"
-#include "test_fixtures.hpp"
+#include "host_test/fixtures/test_fixtures.hpp"
 
 #include "catch.hpp"
 

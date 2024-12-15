@@ -18,7 +18,7 @@
 #include "spi_host_cxx.hpp"
 #include "spi_host_private_cxx.hpp"
 #include "system_cxx.hpp"
-#include "test_fixtures.hpp"
+#include "host_test/fixtures/test_fixtures.hpp"
 
 #include "catch.hpp"
 
